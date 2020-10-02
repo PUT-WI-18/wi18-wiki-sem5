@@ -3,6 +3,10 @@ nav:
   - Wstęp: index.md
   - Plan: plan.md
   - Prowadzacy: prowadzacy.md
+  - Materiały: materialy.mdplugins:
+8
+  - 
+  - Zajęcia: zajecia.md
 theme: readthedocs
 markdown_extensions:
   - admonition
