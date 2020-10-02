@@ -4,3 +4,5 @@ nav:
   - Plan: plan.md
   - Prowadzacy: prowadzacy.md
 theme: readthedocs
+markdown_extensions:
+  - admonition
