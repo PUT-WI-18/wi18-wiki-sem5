@@ -1,1 +1,1 @@
-![plan](img/plan-1.pdf)
+![plan](img/plan-1.png)
