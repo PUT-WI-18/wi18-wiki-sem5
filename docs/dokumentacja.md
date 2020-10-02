@@ -19,3 +19,6 @@ Całość jest oparta na [MkDocs](https://www.mkdocs.org/user-guide/writing-your
 Zajmie ci to z 15 min a dowiesz się wszystkiego co potrzebne. Proponuję skupić się na częściach opisujących edycję samej dokumentacji,
 ponieważ do reszty nie masz dostępu.
 Jeśli chcesz możesz edytować bezpośrednio na stronie GH, albo zrobić PR i edytować lokalnie - twój wybór.
+
+Dodatkowo zainstalowane są pluginy
+- [Admonition](https://python-markdown.github.io/extensions/admonition/)
