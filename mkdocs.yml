@@ -2,3 +2,4 @@ site_name: WI 2018 wiki
 nav:
   - Wstęp: index.md
   - Plan: plan.md
+theme: readthedocs
