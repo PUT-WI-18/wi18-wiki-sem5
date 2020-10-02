@@ -25,10 +25,10 @@
 - [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12) *(Laby)*
 
 # Zarządzanie Bazami SQL i NoSQL
-- [T.Morzy]
+- [T.Morzy]()
 
 # Systemy Wbudowane
-- [Urbaniak]
-- [Ewa Łukasik]
+- [Urbaniak]()
+- [Ewa Łukasik]()
 - [Zakrzewsky](http://www.cs.put.poznan.pl/pzakrzewski/sw.html)
 - [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) *(Laby)*
