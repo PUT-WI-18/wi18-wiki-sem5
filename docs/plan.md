@@ -1,1 +1,1 @@
-![plan](img/d_INF_1st_5sem.pdf)
+![plan](img/plan-1.pdf)
