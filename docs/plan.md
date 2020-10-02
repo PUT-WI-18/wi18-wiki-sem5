@@ -1,3 +1,4 @@
+[plan](https://cat.put.poznan.pl/sites/default/files/dydaktyka/d_INF_1st_5sem.pdf)
 ![plan](https://media.discordapp.net/attachments/759775910785318964/761489676896698388/Screenshot_20201002-092523__01.jpg?width=1260&height=456)
 
 ![plan](https://media.discordapp.net/attachments/759775910785318964/761489700707893328/Screenshot_20201002-092531__01.jpg?width=1260&height=415)
