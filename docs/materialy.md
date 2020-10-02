@@ -15,4 +15,4 @@
 - [Potoniec](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
 
 # Systemy Zarządzania Bazami SQL i NoSQL
-- [eKursy[(https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
+- [eKursy](https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
