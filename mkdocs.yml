@@ -5,6 +5,7 @@ nav:
   - Prowadzacy: prowadzacy.md
   - Materiały: materialy.md
   - Zajęcia: zajecia.md
+  - Dokumentacja: dokumentacja.md
 theme: readthedocs
 markdown_extensions:
   - admonition
