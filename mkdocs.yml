@@ -2,10 +2,5 @@ site_name: WI 2018 wiki
 nav:
   - Wstęp: index.md
   - Plan: plan.md
-  - Prowadzacy: 
-    - i1: prowadzacy/i1.md
-    - i2: prowadzacy/i2.md
-    - i3: prowadzacy/i3.md
-    - i4: prowadzacy/i4.md
-    - i5: prowadzacy/i5.md
+  - Prowadzacy: prowadzacy.md
 theme: readthedocs
