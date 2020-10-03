@@ -2,18 +2,20 @@
     Dodajcie linki do miejsc gdzie będą odbywać się wykłady etc. zgodnie z tym co podali wasi prowadzący
 
 # Wspomaganie decyzji
-- [M.Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/)
-- [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) 
-- [I.Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/)
+- [M.Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) milosz.kadzinski@cs.put.poznan.pl
+- [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) marcin.szelag@cs.put.poznan.pl
+- [I.Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) irmina.maslowska@put.poznan.pl
 
 # Komunikacja Człowiek Komputer
-- [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/)
-- [M.Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/)
-- [M.Martyn]()
+- [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) agnieszka.mensfelt@cs.put.poznan.pl
+- [M.Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) michal.tomczyk@cs.put.poznan.pl
+- [M.Martyn]() magdalena.martyn@put.poznan.pl 
 
 # Inżynieria Oprogramowania
-- [Mirosław Ochodek]()
-- [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
+- [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl.
+- [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) jakub.rojek@cs.put.poznan.pl
+
+
 - [W.Complak]()
 
 # Sieci Komputerowe
