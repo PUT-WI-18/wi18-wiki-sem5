@@ -23,7 +23,10 @@
 
 # Sztuczna Inteligencja
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
+    [LINK DO BBB](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
+
 - [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)
+    [LINK DO BBB](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
 - [Ławrynowicz](http://www.cs.put.poznan.pl/si/)
 
 # Zarządzanie Bazami SQL i NoSQL
