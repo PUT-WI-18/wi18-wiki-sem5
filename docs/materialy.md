@@ -1,4 +1,7 @@
 # Wspomaganie Decyzji
+- [Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/?fbclid=IwAR0-0SqzXPY7zpY16E7qiMq6rCbFrPhGX2JvDbTjPsz2HFRyp2oTddQ0MGs)
+- [I. Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) 
+- [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html)
 - [ophelia](https://ophelia.cs.put.poznan.pl/webdav/wd/students/)
 - [J.Błaszczyński](http://www.cs.put.poznan.pl/jblaszczynski/wdb/)
 
@@ -11,8 +14,7 @@
 - [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
 - [jakieś foldery na siriusie](http://sirius.cs.put.poznan.pl/~inf59835/IO/)
 
-
-# Sieci Komputerowe
+# Sieci Komputerowe 2
 - [Ogrodnik](https://www.cs.put.poznan.pl/msajkowski/for-students/)
 - [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
 - [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2) 
@@ -25,6 +27,7 @@
 - [Michalski](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
 - [strona przedmiotu](http://www.cs.put.poznan.pl/si/)
 - [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12) 
+- [Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/sample-page/iai/)
 
 # Systemy Zarządzania Bazami SQL i NoSQL
 
