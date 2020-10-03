@@ -2,7 +2,7 @@ site_name: WI 2018 wiki
 nav:
   - Wstęp: index.md
   - Plan: plan.md
-  - Prowadzacy: prowadzacy.md
+  - Wykłady: wyklady.md
   - Materiały: materialy.md
   - Zajęcia: zajecia.md
   - Dokumentacja: dokumentacja.md
