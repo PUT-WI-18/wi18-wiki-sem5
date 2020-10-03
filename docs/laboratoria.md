@@ -14,14 +14,12 @@
 # Inżynieria Oprogramowania
 - [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl.
 - [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) jakub.rojek@cs.put.poznan.pl
-
-
-- [W.Complak]()
+- [W.Complak]() wojciech.complak@put.poznan.pl
 
 # Sieci Komputerowe
-- [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
-- [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2) 
-- [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php) 
+- [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) mboron@cs.put.poznan.pl / michal.boron@put.poznan.pl 
+- [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  jan.konczak@put.poznan.pl
+- [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  michal.kalewski@put.poznan.pl 
 
 # Sztuczna Inteligencja
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
