@@ -23,17 +23,17 @@
 - [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  michal.kalewski@put.poznan.pl 
 
 # Sztuczna Inteligencja
-- [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
+- [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html) artur.michalski@put.poznan.pl
     [LINK DO BBB](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
 
-- [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)
+- [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)  Jedrzej.Potoniec@cs.put.poznan.pl
     [LINK DO BBB](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
-- [Ławrynowicz](http://www.cs.put.poznan.pl/si/)
+- [Ławrynowicz](http://www.cs.put.poznan.pl/si/) agnieszka.lawrynowicz@put.poznan.pl
 
 # Zarządzanie Bazami SQL i NoSQL
 - [ekursy(wszystkie grupy)](https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
 
 # Systemy Wbudowane
-- [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html)
-- [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html)
-- [R.Mielczarek]()
+- [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) przemyslaw.zakrzewski@cs.put.poznan.pl
+- [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) ariel.antonowicz@cs.put.poznan.pl / aantonowicz@sc.put.poznan.pl 
+- [R.Mielcarek]() roman.mielcarek@put.poznan.pl 
