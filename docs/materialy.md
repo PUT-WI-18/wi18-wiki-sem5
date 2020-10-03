@@ -1,5 +1,5 @@
 # Wspomaganie Decyzji
-- [ophelia](ia.cs.put.poznan.pl/webdav/wd/students/)
+- [ophelia](https://ophelia.cs.put.poznan.pl/webdav/wd/students/)
 - [błaszczyński](http://www.cs.put.poznan.pl/jblaszczynski/wdb/)
 
 # Komunikacja Człowiek Komputer
