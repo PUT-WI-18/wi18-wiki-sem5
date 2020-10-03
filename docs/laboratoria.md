@@ -21,10 +21,10 @@
 - [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2) 
 - [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php) 
 
-
 # Sztuczna Inteligencja
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
 - [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)
+- [Ławrynowicz](http://www.cs.put.poznan.pl/si/)
 
 # Zarządzanie Bazami SQL i NoSQL
 - [ekursy(wszystkie grupy)](https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
