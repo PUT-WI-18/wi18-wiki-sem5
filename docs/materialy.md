@@ -1,18 +1,33 @@
 # Wspomaganie Decyzji
 - [ophelia](https://ophelia.cs.put.poznan.pl/webdav/wd/students/)
-- [błaszczyński](http://www.cs.put.poznan.pl/jblaszczynski/wdb/)
+- [J.Błaszczyński](http://www.cs.put.poznan.pl/jblaszczynski/wdb/)
 
 # Komunikacja Człowiek Komputer
-- [Rojek](http://sirius.cs.put.poznan.pl/~inf59835/IO/)
+- [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
+- [M. Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
+- [Don't make me think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
+
+# Inżynieria Oprogramowania
+- [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
+- [jakieś foldery na siriusie](http://sirius.cs.put.poznan.pl/~inf59835/IO/)
+
 
 # Sieci Komputerowe
+- [Ogrodnik](https://www.cs.put.poznan.pl/msajkowski/for-students/)
+- [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
+- [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2) 
+- [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php) 
+- [D.Dwornikowski](http://www.cs.put.poznan.pl/ddwornikowski/courses/sieci2.html)
 - [K.Siek](http://www.cs.put.poznan.pl/ksiek/sk2/sk2.html)
-- [B. Brodecki](https://www.cs.put.poznan.pl/bbrodecki/pl/sk)
+- [B.Brodecki](https://www.cs.put.poznan.pl/bbrodecki/pl/sk) *(zebrano sporo fajnych materiałów)*
 
 # Sztuczna Inteligencja
-- [Moodle Wykład?](https://moodle.put.poznan.pl/course/view.php?id=187)
-- [Michalski](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
-- [Potoniec](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
+- [Michalski](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
+- [strona przedmiotu](http://www.cs.put.poznan.pl/si/)
+- [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12) 
 
 # Systemy Zarządzania Bazami SQL i NoSQL
-- [eKursy](https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
+
+# Systemy Wbudowane
+- [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html)
+- [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) 
