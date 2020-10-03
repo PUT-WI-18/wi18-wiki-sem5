@@ -9,7 +9,7 @@
 
 # Sieci Komputerowe
 - [M.Sajkowski](https://www.cs.put.poznan.pl/msajkowski/for-students/)  Michal.Sajkowski@put.poznan.pl
-- [LINK DO BBB](https://moodle.put.poznan.pl/course/view.php?id=4944)
+   [LINK DO BBB](https://moodle.put.poznan.pl/course/view.php?id=4944)
 
 # Sztuczna Inteligencja
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html) artur.michalski@put.poznan.pl.
