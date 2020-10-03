@@ -1,23 +1,23 @@
 # Wspomaganie decyzji
-- [Roman Słowiński]() 
+- [Roman Słowiński]() roman.slowinski@cs.put.poznan.pl
 
 # Komunikacja Człowiek Komputer
-- [Piotr Zieleniewicz]()
+- [Piotr Zieleniewicz]() piotr.zielniewicz@put.poznan.pl 
 
 # Inżynieria Oprogramowania
-- [Mirosław Ochodek]()
+- [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
 
 # Sieci Komputerowe
-- [M.Sajkowski](https://www.cs.put.poznan.pl/msajkowski/for-students/) 
+- [M.Sajkowski](https://www.cs.put.poznan.pl/msajkowski/for-students/)  Michal.Sajkowski@put.poznan.pl
 - [BBB](https://moodle.put.poznan.pl/course/view.php?id=4944)
 
 # Sztuczna Inteligencja
-- [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
-- [A.Ławrynowicz](http://www.cs.put.poznan.pl/si/)
+- [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html) artur.michalski@put.poznan.pl.
+- [A.Ławrynowicz](http://www.cs.put.poznan.pl/si/) agnieszka.lawrynowicz@put.poznan.pl 
 
 # Zarządzanie Bazami SQL i NoSQL
-- [T.Morzy]()
+- [T.Morzy]() tadeusz.morzy@put.poznan.pl
 
 # Systemy Wbudowane
-- [Urbaniak]()
-- [Ewa Łukasik]()
+- [Urbaniak]() andrzej.urbaniak@put.poznan.pl 
+- [Ewa Łukasik]() ewa.lukasik@put.poznan.pl 
