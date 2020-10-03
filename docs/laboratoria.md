@@ -13,7 +13,7 @@
 - [M.Martyn]() magdalena.martyn@put.poznan.pl 
 
 # Inżynieria Oprogramowania
-- [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl.
+- [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
 - [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) jakub.rojek@cs.put.poznan.pl
 - [W.Complak]() wojciech.complak@put.poznan.pl
 
@@ -31,9 +31,9 @@
 - [Ławrynowicz](http://www.cs.put.poznan.pl/si/) agnieszka.lawrynowicz@put.poznan.pl
 
 # Zarządzanie Bazami SQL i NoSQL
-- [Bartosz Bębel] (http://www.cs.put.poznan.pl/bbebel) bartosz.bebel@cs.put.poznan.pl
-- [Anna Leśniewska] (http://www.cs.put.poznan.pl/alesniewska) anna.lesniewska@cs.put.poznan.pl
-- [Paweł Boiński] (http://www.cs.put.poznan.pl/pboinski) pawel.boinski@cs.put.poznan.pl
+- [Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  bartosz.bebel@cs.put.poznan.pl
+- [Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  anna.lesniewska@cs.put.poznan.pl
+- [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  pawel.boinski@cs.put.poznan.pl
 - [ekursy(wszystkie grupy)] (https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
 
 # Systemy Wbudowane
