@@ -31,10 +31,10 @@
 - [Ławrynowicz](http://www.cs.put.poznan.pl/si/) agnieszka.lawrynowicz@put.poznan.pl
 
 # Zarządzanie Bazami SQL i NoSQL
--[Bartosz Bębel](www.cs.put.poznan.pl/bbebel) bartosz.bebel@cs.put.poznan.pl
--[Anna Leśniewska](www.cs.put.poznan.pl/alesniewska) anna.lesniewska@cs.put.poznan.pl
--[Paweł Boiński](www.cs.put.poznan.pl/pboinski) pawel.boinski@cs.put.poznan.pl
--[ekursy(wszystkie grupy)](https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
+- [Bartosz Bębel] (http://www.cs.put.poznan.pl/bbebel) bartosz.bebel@cs.put.poznan.pl
+- [Anna Leśniewska] (http://www.cs.put.poznan.pl/alesniewska) anna.lesniewska@cs.put.poznan.pl
+- [Paweł Boiński] (http://www.cs.put.poznan.pl/pboinski) pawel.boinski@cs.put.poznan.pl
+- [ekursy(wszystkie grupy)] (https://ekursy.put.poznan.pl/enrol/index.php?id=4476)
 
 # Systemy Wbudowane
 - [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) przemyslaw.zakrzewski@cs.put.poznan.pl
