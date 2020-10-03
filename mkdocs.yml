@@ -3,8 +3,8 @@ nav:
   - Wstęp: index.md
   - Plan: plan.md
   - Wykłady: wyklady.md
+  - Laboratoria: laboratoria.md
   - Materiały: materialy.md
-  - Zajęcia: zajecia.md
   - Dokumentacja: dokumentacja.md
 theme: readthedocs
 markdown_extensions:
