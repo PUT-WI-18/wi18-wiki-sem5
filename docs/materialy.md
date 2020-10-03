@@ -30,6 +30,7 @@
 - [Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/sample-page/iai/)
 
 # Systemy Zarządzania Bazami SQL i NoSQL
+- [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)
 
 # Systemy Wbudowane
 - [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html)
