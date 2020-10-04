@@ -3,7 +3,7 @@
  [LINK DO ZOOM](https://us02web.zoom.us/j/5979802696?pwd=MS9vTUR1aVVXTkVtaER4dC81dXFpdz09)
 # Komunikacja Człowiek Komputer
 - [Piotr Zieleniewicz]() piotr.zielniewicz@put.poznan.pl 
-
+   [LINK DO BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=240728)
 # Inżynieria Oprogramowania
 - [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
    [LINK DO BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=470657)
