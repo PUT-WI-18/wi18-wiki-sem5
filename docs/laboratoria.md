@@ -20,7 +20,8 @@
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
 # Sieci Komputerowe
-- [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) mboron@cs.put.poznan.pl / michal.boron@put.poznan.pl 
+- [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) michal.boron@put.poznan.pl 
+[LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
 - [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  jan.konczak@put.poznan.pl
 - [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  michal.kalewski@put.poznan.pl 
 
@@ -42,6 +43,6 @@
 # Systemy Wbudowane
 - [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) przemyslaw.zakrzewski@cs.put.poznan.pl
     [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
-- [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) ariel.antonowicz@cs.put.poznan.pl / aantonowicz@sc.put.poznan.pl 
+- [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) ariel.antonowicz@cs.put.poznan.pl
     [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
 - [R.Mielcarek]() roman.mielcarek@put.poznan.pl 
