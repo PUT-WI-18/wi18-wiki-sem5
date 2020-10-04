@@ -36,7 +36,7 @@
 - [Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  bartosz.bebel@cs.put.poznan.pl
 - [Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  anna.lesniewska@cs.put.poznan.pl
 - [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  pawel.boinski@cs.put.poznan.pl
-- [Ekursy]( https://ekursy.put.poznan.pl/enrol/index.php?id=4476 ) *(wszystkie grupy)*
+- [Ekursy](https://ekursy.put.poznan.pl/course/view.php?id=4476) *(wszystkie grupy)*
 
 
 # Systemy Wbudowane
