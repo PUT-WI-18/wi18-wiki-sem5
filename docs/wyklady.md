@@ -1,6 +1,6 @@
 # Wspomaganie decyzji
 - [Roman Słowiński]() roman.slowinski@cs.put.poznan.pl
-
+ [LINK DO ZOOM](https://us02web.zoom.us/j/5979802696?pwd=MS9vTUR1aVVXTkVtaER4dC81dXFpdz09)
 # Komunikacja Człowiek Komputer
 - [Piotr Zieleniewicz]() piotr.zielniewicz@put.poznan.pl 
 
