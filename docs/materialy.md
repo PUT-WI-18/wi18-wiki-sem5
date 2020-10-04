@@ -8,6 +8,7 @@
 # Komunikacja Człowiek Komputer
 - [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
 - [M. Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
+- [Jaskowski](http://www.cs.put.poznan.pl/wjaskowski/pub/teaching/kck/lectures/)
 - [Don't make me think](http://www.scottsdevelopers.com/dont-make-me-think-revisited.pdf)
 
 # Inżynieria Oprogramowania
