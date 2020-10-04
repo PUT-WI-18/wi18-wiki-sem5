@@ -6,6 +6,7 @@
 
 # Inżynieria Oprogramowania
 - [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
+   [LINK DO BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=470657)
 
 # Sieci Komputerowe
 - [M.Sajkowski](https://www.cs.put.poznan.pl/msajkowski/for-students/)  Michal.Sajkowski@put.poznan.pl
