@@ -41,5 +41,7 @@
 
 # Systemy Wbudowane
 - [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) przemyslaw.zakrzewski@cs.put.poznan.pl
+    [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
 - [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) ariel.antonowicz@cs.put.poznan.pl / aantonowicz@sc.put.poznan.pl 
+    [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
 - [R.Mielcarek]() roman.mielcarek@put.poznan.pl 
