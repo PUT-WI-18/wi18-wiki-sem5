@@ -16,7 +16,7 @@
 - [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
 - [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) jakub.rojek@cs.put.poznan.pl
 - [W.Complak]() wojciech.complak@put.poznan.pl
-- [ekursy(wszyskie grupy)](https://ekursy.put.poznan.pl/course/view.php?id=3561)
+- [ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 )
 
 # Sieci Komputerowe
 - [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) mboron@cs.put.poznan.pl / michal.boron@put.poznan.pl 
