@@ -23,7 +23,8 @@
     - Miroslaw.Ochodek@cs.put.poznan.pl
 - [Jakub Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
     - jakub.rojek@cs.put.poznan.pl
-- [Wojciech Complak]() wojciech.complak@put.poznan.pl
+- [Wojciech Complak]() 
+    - wojciech.complak@put.poznan.pl
 - [Ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 ) *(wszystkie grupy)*
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
