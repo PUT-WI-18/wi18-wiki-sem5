@@ -28,6 +28,6 @@
 
 # Systemy Wbudowane
 - [Andrzej Urbaniak]() 
-   - *andrzej.urbaniak@put.poznan.pl *
+   - *andrzej.urbaniak@put.poznan.pl*
 - [Ewa Łukasik]() 
-   - *ewa.lukasik@put.poznan.pl *
+   - *ewa.lukasik@put.poznan.pl*
