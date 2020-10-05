@@ -1,16 +1,16 @@
 # Wspomaganie decyzji
 - [Roman Słowiński]() roman.slowinski@cs.put.poznan.pl
-   [LINK DO ZOOM](https://us02web.zoom.us/j/85460484417?pwd=NXpuckN3cFRKU1lwa1VLc0VoS09yQT09)
+   - [Link do Zoom](https://us02web.zoom.us/j/85460484417?pwd=NXpuckN3cFRKU1lwa1VLc0VoS09yQT09&uname=Piotr%20Tylczy%C5%84ski)
 # Komunikacja Człowiek Komputer
 - [Piotr Zieleniewicz]() piotr.zielniewicz@put.poznan.pl 
-   [LINK DO BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=240728)
+   - [Link do Guzika](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=240728)
 # Inżynieria Oprogramowania
 - [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
    [LINK DO BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=470657)
 
 # Sieci Komputerowe
 - [M.Sajkowski](https://www.cs.put.poznan.pl/msajkowski/for-students/)  Michal.Sajkowski@put.poznan.pl
-   [LINK DO BBB](https://moodle.put.poznan.pl/course/view.php?id=4944)
+   - [Link do Guzika](https://moodle.put.poznan.pl/course/view.php?id=4944)
 
 # Sztuczna Inteligencja
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html) artur.michalski@put.poznan.pl.
