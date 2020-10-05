@@ -1,6 +1,6 @@
 # Wspomaganie decyzji
 - [Roman Słowiński]() roman.slowinski@cs.put.poznan.pl
-   [LINK DO ZOOM](https://us02web.zoom.us/j/85460484417?pwd=NXpuckN3cFRKU1lwa1VLc0VoS09yQT09 ten mi zadziałał)
+   [LINK DO ZOOM](https://us02web.zoom.us/j/85460484417?pwd=NXpuckN3cFRKU1lwa1VLc0VoS09yQT09)
 # Komunikacja Człowiek Komputer
 - [Piotr Zieleniewicz]() piotr.zielniewicz@put.poznan.pl 
    [LINK DO BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=240728)
