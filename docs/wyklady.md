@@ -22,7 +22,7 @@
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html) 
    - *artur.michalski@put.poznan.pl*
 - [Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
-   - *agnieszka.lawrynowicz@put.poznan.pl *
+   - *agnieszka.lawrynowicz@put.poznan.pl*
 
 # Zarządzanie Bazami SQL i NoSQL
 - [Tadeusz Morzy]() 
