@@ -7,7 +7,7 @@
 # Komunikacja Człowiek Komputer
 - [Piotr Zieleniewicz]() 
    - *piotr.zielniewicz@put.poznan.pl*
-   - [Link do Guzika](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=240728)
+   - [Link do Zoom](https://us02web.zoom.us/j/89124695587?pwd=Qlo3bGhvS1ZkNU4yWHViZjVNU01zUT09) *(hasło: 1234)*
    - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdHdDd2HnjsJbmGss6INHien)
    
 # Inżynieria Oprogramowania
