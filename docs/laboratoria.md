@@ -41,7 +41,6 @@
 - [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
     - artur.michalski@put.poznan.pl
     - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
-
 - [Jędrzej Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)  
     - Jedrzej.Potoniec@cs.put.poznan.pl
     - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
