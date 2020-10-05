@@ -2,47 +2,67 @@
     Dodajcie linki do miejsc gdzie będą odbywać się wykłady etc. zgodnie z tym co podali wasi prowadzący
 
 # Wspomaganie decyzji
-- [M.Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) milosz.kadzinski@cs.put.poznan.pl
-- [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) marcin.szelag@cs.put.poznan.pl 
+- [Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
+    - milosz.kadzinski@cs.put.poznan.pl
+- [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) 
+    - marcin.szelag@cs.put.poznan.pl 
     - [LINK DO ZOOM](https://us02web.zoom.us/j/6058330707?pwd=RUxNcUN6Y3g3eUxydnBNK2d6VE5HZz09&fbclid=IwAR0M7Kux1lQD9cr-aCd6B-97gQjszb7WhxaAMeYyNgBfZR8XC-SrpCra7Xo#success)
-- [I.Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) irmina.maslowska@put.poznan.pl
+- [Irmina Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) 
+    - irmina.maslowska@put.poznan.pl
 
 # Komunikacja Człowiek Komputer
-- [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) agnieszka.mensfelt@cs.put.poznan.pl
-- [M.Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) michal.tomczyk@cs.put.poznan.pl
-- [M.Martyn]() magdalena.martyn@put.poznan.pl 
+- [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
+    - agnieszka.mensfelt@cs.put.poznan.pl
+- [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
+    - michal.tomczyk@cs.put.poznan.pl
+- [Magdalena Martyn]() 
+    - magdalena.martyn@put.poznan.pl 
 
 # Inżynieria Oprogramowania
-- [Mirosław Ochodek]() Miroslaw.Ochodek@cs.put.poznan.pl
-- [J.Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) jakub.rojek@cs.put.poznan.pl
-- [W.Complak]() wojciech.complak@put.poznan.pl
+- [Mirosław Ochodek]() 
+    - Miroslaw.Ochodek@cs.put.poznan.pl
+- [Jakub Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
+    - jakub.rojek@cs.put.poznan.pl
+- [Wojciech Complak]() wojciech.complak@put.poznan.pl
 - [Ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 ) *(wszystkie grupy)*
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
 # Sieci Komputerowe
-- [M.Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) michal.boron@put.poznan.pl 
+- [Michał Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
+    - michal.boron@put.poznan.pl 
 [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
-- [J.Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  jan.konczak@put.poznan.pl
-- [M.Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  michal.kalewski@put.poznan.pl 
+- [Jan Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  
+    - jan.konczak@put.poznan.pl
+- [Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
+    - michal.kalewski@put.poznan.pl 
 
 # Sztuczna Inteligencja
-- [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html) artur.michalski@put.poznan.pl
-    [LINK DO BBB](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
+- [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
+    - artur.michalski@put.poznan.pl
+    - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
 
-- [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)  Jedrzej.Potoniec@cs.put.poznan.pl
-    [LINK DO BBB](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
-- [Ławrynowicz](http://www.cs.put.poznan.pl/si/) agnieszka.lawrynowicz@put.poznan.pl
+- [Jędrzej Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)  
+    - Jedrzej.Potoniec@cs.put.poznan.pl
+    - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
+- [Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
+    - agnieszka.lawrynowicz@put.poznan.pl
 
 # Zarządzanie Bazami SQL i NoSQL
-- [Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  bartosz.bebel@cs.put.poznan.pl
-- [Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  anna.lesniewska@cs.put.poznan.pl
-- [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  pawel.boinski@cs.put.poznan.pl
+- [Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  
+    - bartosz.bebel@cs.put.poznan.pl
+- [Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
+    - anna.lesniewska@cs.put.poznan.pl
+- [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  
+    - pawel.boinski@cs.put.poznan.pl
 - [Ekursy](https://ekursy.put.poznan.pl/course/view.php?id=4476) *(wszystkie grupy)*
 
 
 # Systemy Wbudowane
-- [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) przemyslaw.zakrzewski@cs.put.poznan.pl
+- [Zakrzewsky](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) 
+    - przemyslaw.zakrzewski@cs.put.poznan.pl
     - [link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
-- [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) ariel.antonowicz@cs.put.poznan.pl
+- [Ariel Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) 
+    - ariel.antonowicz@cs.put.poznan.pl
     - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
-- [R.Mielcarek]() roman.mielcarek@put.poznan.pl 
+- [Roman Mielcarek]() 
+    - roman.mielcarek@put.poznan.pl 
