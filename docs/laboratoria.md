@@ -4,7 +4,7 @@
 # Wspomaganie decyzji
 - [M.Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) milosz.kadzinski@cs.put.poznan.pl
 - [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) marcin.szelag@cs.put.poznan.pl 
-    [LINK DO ZOOM](https://us02web.zoom.us/j/6058330707?pwd=RUxNcUN6Y3g3eUxydnBNK2d6VE5HZz09&fbclid=IwAR0M7Kux1lQD9cr-aCd6B-97gQjszb7WhxaAMeYyNgBfZR8XC-SrpCra7Xo#success)
+    - [LINK DO ZOOM](https://us02web.zoom.us/j/6058330707?pwd=RUxNcUN6Y3g3eUxydnBNK2d6VE5HZz09&fbclid=IwAR0M7Kux1lQD9cr-aCd6B-97gQjszb7WhxaAMeYyNgBfZR8XC-SrpCra7Xo#success)
 - [I.Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) irmina.maslowska@put.poznan.pl
 
 # Komunikacja Człowiek Komputer
@@ -42,7 +42,7 @@
 
 # Systemy Wbudowane
 - [Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) przemyslaw.zakrzewski@cs.put.poznan.pl
-    [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
+    - [link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
 - [A.Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) ariel.antonowicz@cs.put.poznan.pl
-    [LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
+    - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
 - [R.Mielcarek]() roman.mielcarek@put.poznan.pl 
