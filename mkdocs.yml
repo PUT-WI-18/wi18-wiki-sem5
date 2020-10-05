@@ -9,3 +9,4 @@ nav:
 theme: readthedocs
 markdown_extensions:
   - admonition
+google_analytics: ['UA-179605180-1', 'wi.ptl.cloud']
