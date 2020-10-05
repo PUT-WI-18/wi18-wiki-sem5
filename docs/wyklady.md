@@ -2,10 +2,12 @@
 - [Roman Słowiński]() 
    - *roman.slowinski@cs.put.poznan.pl*
    - [Link do Zoom](https://us02web.zoom.us/j/85460484417?pwd=NXpuckN3cFRKU1lwa1VLc0VoS09yQT09&uname=Piotr%20Tylczy%C5%84ski)
+   
 # Komunikacja Człowiek Komputer
 - [Piotr Zieleniewicz]() 
    - *piotr.zielniewicz@put.poznan.pl*
    - [Link do Guzika](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=240728)
+   
 # Inżynieria Oprogramowania
 - [Mirosław Ochodek]() 
    - *Miroslaw.Ochodek@cs.put.poznan.pl*
