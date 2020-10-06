@@ -1,6 +1,3 @@
-!!! TODO
-    Dodajcie linki do miejsc gdzie będą odbywać się wykłady etc. zgodnie z tym co podali wasi prowadzący
-
 # Wspomaganie decyzji
 - ### [Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
     - milosz.kadzinski@cs.put.poznan.pl
