@@ -13,6 +13,7 @@
 # Komunikacja Człowiek Komputer
 - [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
     - agnieszka.mensfelt@cs.put.poznan.pl
+    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/agn-krm-roz)
 - [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
     - michal.tomczyk@cs.put.poznan.pl
 - [Magdalena Martyn]() 
