@@ -16,8 +16,12 @@
     - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/agn-krm-roz)
 - ### [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
     - michal.tomczyk@cs.put.poznan.pl
-- ### [Magdalena Martyn]() 
+- ### [Magdalena Martyn]()
     - magdalena.martyn@put.poznan.pl 
+    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/mag-a07-jmh)
+    - Zoom
+        - Meeting ID: 825 8920 6394
+        - Passcode: 9pPw69
 
 # Inżynieria Oprogramowania
 - ### [Mirosław Ochodek]() 
