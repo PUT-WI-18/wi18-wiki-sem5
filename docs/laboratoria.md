@@ -25,6 +25,7 @@
     - jakub.rojek@cs.put.poznan.pl
 - [Wojciech Complak]() 
     - wojciech.complak@put.poznan.pl
+    - [zoom](https://us02web.zoom.us/j/88179740153?pwd=a2VYbFN1NWhLNk9kT1BDVnVTUVhsUT09)
 - [Ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 ) *(wszystkie grupy)*
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
