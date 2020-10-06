@@ -33,7 +33,7 @@
 # Sieci Komputerowe
 - [Michał Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
     - michal.boron@put.poznan.pl 
-[LINK DO BBB](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
+    - [Link do GUzika](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
 - [Jan Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  
     - jan.konczak@put.poznan.pl
     - [SK2-wt-13:30](https://emeeting.put.poznan.pl/eMeeting/jan-4xx-mh8) *(eMeeting)*
