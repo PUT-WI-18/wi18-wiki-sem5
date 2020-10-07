@@ -60,6 +60,9 @@
     - bartosz.bebel@cs.put.poznan.pl
 - ### [Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
     - anna.lesniewska@cs.put.poznan.pl
+    - [SZBD-czw-08:00](https://us02web.zoom.us/j/4933082330?pwd=-9QLpFDLeBD2nixZkGDsZ1eG)*(Zoom)*
+        - Meeting ID: 493 308 2330
+        - Passcode: BD
     - [SZBD-czw-08:00](https://us02web.zoom.us/j/4933082330?pwd=-9QLpFDLeBD2nixZkGDsZ1eG)
 - ### [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  
     - pawel.boinski@cs.put.poznan.pl
