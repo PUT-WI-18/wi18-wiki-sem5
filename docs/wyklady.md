@@ -32,8 +32,8 @@
 # Zarządzanie Bazami SQL i NoSQL
 - ### [Tadeusz Morzy]() 
     - *tadeusz.morzy@put.poznan.pl*
-    - [Link do Zoom](https://zoom.us/j/97624299482?pwd=eTRsem5vM29zTmx4a05EQWc4eW1WQT09)
-    - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdHtGPHUkvYG1HQXkSVfhcm1)
+    - [Link do Zoom](https://zoom.us/j/97624299482?pwd=eTRsem5vM29zTmx4a05EQWc4eW1WQT09) *(hasło: 6QMHQ3)*
+    - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdHtGPHUkvYG1HQXkSVfhcm1) 
 
 # Systemy Wbudowane
 - ### [Andrzej Urbaniak]() 
