@@ -13,7 +13,7 @@
     - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/agn-krm-roz)
 - ### [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
     - michal.tomczyk@cs.put.poznan.pl
-- ### [Magdalena Martyn]()
+- ### [Magdalena Martyn](http://www.cs.put.poznan.pl/mmartyn/)
     - magdalena.martyn@put.poznan.pl 
     - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/mag-a07-jmh)
     - [Zoom](https://us02web.zoom.us/j/82589206394?pwd=UnFVVTdUTTlYejdyRHMzVFJGOWw2UT09)
