@@ -1,20 +1,20 @@
 # Wspomaganie decyzji
-- ### [Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
+- ### [dr hab. inż. Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
     - milosz.kadzinski@cs.put.poznan.pl
     - Skype ID: milosz.kadzinski 16:50-18:20
-- ### [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) 
+- ### [dr inż. Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) 
     - marcin.szelag@cs.put.poznan.pl 
     - [LINK DO ZOOM](https://us02web.zoom.us/j/6058330707?pwd=RUxNcUN6Y3g3eUxydnBNK2d6VE5HZz09&fbclid=IwAR0M7Kux1lQD9cr-aCd6B-97gQjszb7WhxaAMeYyNgBfZR8XC-SrpCra7Xo#success)
-- ### [Irmina Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) 
+- ### [dr inż. Irmina Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) 
     - irmina.maslowska@put.poznan.pl
 
 # Komunikacja Człowiek Komputer
-- ### [Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
+- ### [mgr Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
     - agnieszka.mensfelt@cs.put.poznan.pl
     - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/agn-krm-roz)
-- ### [Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
+- ### [mgr inż. Michał Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/kck-zasady-oceniania/) 
     - michal.tomczyk@cs.put.poznan.pl
-- ### [Magdalena Martyn](http://www.cs.put.poznan.pl/mmartyn/)
+- ### [mgr inż. Magdalena Martyn](http://www.cs.put.poznan.pl/mmartyn/)
     - magdalena.martyn@put.poznan.pl 
     - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/mag-a07-jmh)
     - [Zoom](https://us02web.zoom.us/j/82589206394?pwd=UnFVVTdUTTlYejdyRHMzVFJGOWw2UT09)
@@ -22,59 +22,59 @@
         - Passcode: 9pPw69
 
 # Inżynieria Oprogramowania
-- ### [Mirosław Ochodek]() 
+- ### [dr inż. Mirosław Ochodek]() 
     - Miroslaw.Ochodek@cs.put.poznan.pl
 - ### [Jakub Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
     - jakub.rojek@cs.put.poznan.pl
-- ### [Wojciech Complak]() 
+- ### [dr inż. Wojciech Complak]() 
     - wojciech.complak@put.poznan.pl
     - [zoom](https://us02web.zoom.us/j/88179740153?pwd=a2VYbFN1NWhLNk9kT1BDVnVTUVhsUT09)
 - [Ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 ) *(wszystkie grupy)*
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
 # Sieci Komputerowe
-- ### [Michał Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
+- ### [mgr inż. Michał Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
     - michal.boron@put.poznan.pl 
     - [Link do GUzika](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
-- ### [Jan Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  
+- ### [mgr inż. Jan Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  
     - jan.konczak@put.poznan.pl
     - [SK2-wt-13:30](https://emeeting.put.poznan.pl/eMeeting/jan-4xx-mh8) *(eMeeting)*
     - [SK2-wt-16:50](https://emeeting.put.poznan.pl/eMeeting/jan-no6-gxz) *(eMeeting)*
     - [SK2-śr-08:00](https://emeeting.put.poznan.pl/eMeeting/jan-h6m-n62) *(eMeeting)*
     - [SK2-śr-09:45](https://emeeting.put.poznan.pl/eMeeting/jan-550-oy9) *(eMeeting)*
-- [Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
+- [dr inż. Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
     - michal.kalewski@put.poznan.pl 
 
 # Sztuczna Inteligencja
-- ### [Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
+- ### [dr inż. Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
     - artur.michalski@put.poznan.pl
     - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
-- ### [Jędrzej Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)  
+- ### [dr inż. Jędrzej Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12)  
     - Jedrzej.Potoniec@cs.put.poznan.pl
     - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
-- ### [Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
+- ### [dr hab. inż. Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
     - agnieszka.lawrynowicz@put.poznan.pl
 
 # Zarządzanie Bazami SQL i NoSQL
-- ### [Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  
+- ### [dr inż. Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  
     - bartosz.bebel@cs.put.poznan.pl
-- ### [Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
+- ### [dr inż. Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
     - anna.lesniewska@cs.put.poznan.pl
     - [SZBD-czw-08:00](https://us02web.zoom.us/j/4933082330?pwd=-9QLpFDLeBD2nixZkGDsZ1eG)*(Zoom)*
         - Meeting ID: 493 308 2330
         - Passcode: BD
-- ### [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  
+- ### [dr inż. Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  
     - pawel.boinski@cs.put.poznan.pl
 - [Ekursy](https://ekursy.put.poznan.pl/course/view.php?id=4476) *(wszystkie grupy)*
 
 
 # Systemy Wbudowane
-- ### [Zakrzewsky](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) 
+- ### [dr inż. Przemysław Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) 
     - przemyslaw.zakrzewski@cs.put.poznan.pl
     - [link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
-- ### [Ariel Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) 
+- ### [mgr inż. Ariel Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) 
     - ariel.antonowicz@cs.put.poznan.pl
     - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
-- ### [Roman Mielcarek]() 
+- ### [dr inż. Roman Mielcarek]() 
     - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/rom-5zj-azv)
     - roman.mielcarek@put.poznan.pl 
