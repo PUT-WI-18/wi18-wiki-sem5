@@ -1,6 +1,7 @@
 # Wspomaganie decyzji
 - ### [Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
     - milosz.kadzinski@cs.put.poznan.pl
+    - Skype ID: milosz.kadzinski 16:50-18:20
 - ### [Marcin Szeląg](http://www.cs.put.poznan.pl/mszelag/Teaching/teaching.html) 
     - marcin.szelag@cs.put.poznan.pl 
     - [LINK DO ZOOM](https://us02web.zoom.us/j/6058330707?pwd=RUxNcUN6Y3g3eUxydnBNK2d6VE5HZz09&fbclid=IwAR0M7Kux1lQD9cr-aCd6B-97gQjszb7WhxaAMeYyNgBfZR8XC-SrpCra7Xo#success)
