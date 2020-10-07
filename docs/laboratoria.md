@@ -1,4 +1,5 @@
-# Wspomaganie decyzji
+#Laboratoria
+## Wspomaganie decyzji
 - ### [dr hab. inż. Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
     - milosz.kadzinski@cs.put.poznan.pl
     - Skype ID: milosz.kadzinski 16:50-18:20
@@ -8,7 +9,7 @@
 - ### [dr inż. Irmina Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) 
     - irmina.maslowska@put.poznan.pl
 
-# Komunikacja Człowiek Komputer
+## Komunikacja Człowiek Komputer
 - ### [mgr Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
     - agnieszka.mensfelt@cs.put.poznan.pl
     - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/agn-krm-roz)
@@ -21,7 +22,7 @@
         - Meeting ID: 825 8920 6394
         - Passcode: 9pPw69
 
-# Inżynieria Oprogramowania
+## Inżynieria Oprogramowania
 - ### [dr inż. Mirosław Ochodek]() 
     - Miroslaw.Ochodek@cs.put.poznan.pl
 - ### [Jakub Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
@@ -32,7 +33,7 @@
 - [Ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 ) *(wszystkie grupy)*
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
-# Sieci Komputerowe
+## Sieci Komputerowe
 - ### [mgr inż. Michał Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
     - michal.boron@put.poznan.pl 
     - [Link do GUzika](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
@@ -45,7 +46,7 @@
 - [dr inż. Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
     - michal.kalewski@put.poznan.pl 
 
-# Sztuczna Inteligencja
+## Sztuczna Inteligencja
 - ### [dr inż. Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
     - artur.michalski@put.poznan.pl
     - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120740)
@@ -55,7 +56,7 @@
 - ### [dr hab. inż. Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
     - agnieszka.lawrynowicz@put.poznan.pl
 
-# Zarządzanie Bazami SQL i NoSQL
+## Zarządzanie Bazami SQL i NoSQL
 - ### [dr inż. Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  
     - bartosz.bebel@cs.put.poznan.pl
 - ### [dr inż. Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
@@ -68,7 +69,7 @@
 - [Ekursy](https://ekursy.put.poznan.pl/course/view.php?id=4476) *(wszystkie grupy)*
 
 
-# Systemy Wbudowane
+## Systemy Wbudowane
 - ### [dr inż. Przemysław Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) 
     - przemyslaw.zakrzewski@cs.put.poznan.pl
     - [link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
