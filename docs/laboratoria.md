@@ -8,6 +8,10 @@
     - [LINK DO ZOOM](https://us02web.zoom.us/j/6058330707?pwd=RUxNcUN6Y3g3eUxydnBNK2d6VE5HZz09&fbclid=IwAR0M7Kux1lQD9cr-aCd6B-97gQjszb7WhxaAMeYyNgBfZR8XC-SrpCra7Xo#success)
 - ### [dr inż. Irmina Masłowska](http://www.cs.put.poznan.pl/imaslowska/wd/) 
     - irmina.maslowska@put.poznan.pl
+    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/irm-1h7-tnm)
+    - [Zoom](https://us02web.zoom.us/j/9627860113?pwd=ZU1Qc1A0SjhPTXR1YTRvV0w2MnVjUT09)
+        - Meeting ID: 962 786 0113
+        - Passcode: 96kUBh
 
 ## Komunikacja Człowiek Komputer
 - ### [mgr Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
