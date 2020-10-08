@@ -12,6 +12,7 @@
     - [Zoom](https://us02web.zoom.us/j/9627860113?pwd=ZU1Qc1A0SjhPTXR1YTRvV0w2MnVjUT09)
         - Meeting ID: 962 786 0113
         - Passcode: 96kUBh
+    - [eKursy](https://ekursy.put.poznan.pl/course/view.php?id=3737)
 
 ## Komunikacja Człowiek Komputer
 - ### [mgr Agnieszka Mensfelt](https://www.cs.put.poznan.pl/amensfelt/komunikacja-czlowiek-komputer/) 
@@ -49,6 +50,7 @@
     - [SK2-śr-09:45](https://emeeting.put.poznan.pl/eMeeting/jan-550-oy9) *(eMeeting)*
 - ### [dr inż. Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
     - michal.kalewski@put.poznan.pl 
+    - [Zoom](https://us02web.zoom.us/j/88991864092?pwd=K0owakJ5U3ptYXR0dmIwVHlqakJldz09)
 
 ## Sztuczna Inteligencja
 - ### [dr inż. Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
@@ -63,11 +65,13 @@
 ## Zarządzanie Bazami SQL i NoSQL
 - ### [dr inż. Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  
     - bartosz.bebel@cs.put.poznan.pl
+    - [konsultacje](http://cat.put.poznan.pl/show-profile/112)
 - ### [dr inż. Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
     - anna.lesniewska@cs.put.poznan.pl
     - [SZBD-czw-08:00](https://us02web.zoom.us/j/4933082330?pwd=-9QLpFDLeBD2nixZkGDsZ1eG)*(Zoom)*
         - Meeting ID: 493 308 2330
         - Passcode: BD
+    - [konsultacje](https://emeeting.put.poznan.pl/eMeeting/ann-hua-pmw) poniedziałek 9:45 - 11:15
 - ### [dr inż. Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  
     - pawel.boinski@cs.put.poznan.pl
 - [Ekursy](https://ekursy.put.poznan.pl/course/view.php?id=4476) *(wszystkie grupy)*
