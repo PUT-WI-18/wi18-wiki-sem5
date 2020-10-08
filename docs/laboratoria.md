@@ -47,7 +47,7 @@
     - [SK2-wt-16:50](https://emeeting.put.poznan.pl/eMeeting/jan-no6-gxz) *(eMeeting)*
     - [SK2-śr-08:00](https://emeeting.put.poznan.pl/eMeeting/jan-h6m-n62) *(eMeeting)*
     - [SK2-śr-09:45](https://emeeting.put.poznan.pl/eMeeting/jan-550-oy9) *(eMeeting)*
-- [dr inż. Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
+- ### [dr inż. Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
     - michal.kalewski@put.poznan.pl 
 
 ## Sztuczna Inteligencja
