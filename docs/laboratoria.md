@@ -81,5 +81,5 @@
     - ariel.antonowicz@cs.put.poznan.pl
     - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
 - ### [dr inż. Roman Mielcarek]() 
-    - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/rom-5zj-azv)
     - roman.mielcarek@put.poznan.pl 
+    - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/rom-5zj-azv)
