@@ -1,4 +1,4 @@
-#Laboratoria
+# Laboratoria
 ## Wspomaganie decyzji
 - ### [dr hab. inż. Miłosz Kadziński](http://www.cs.put.poznan.pl/mkadzinski/wd/) 
     - milosz.kadzinski@cs.put.poznan.pl
