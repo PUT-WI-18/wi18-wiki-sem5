@@ -41,4 +41,7 @@
     - *andrzej.urbaniak@put.poznan.pl*
 - ### [dr inż. Ewa Łukasik]() 
     - *ewa.lukasik@put.poznan.pl*
+- ### [dr inż. Przemysław Zakrzewski]()
+    - *przemyslaw.zakrzewski@cs.put.poznan.pl*
+    - [Link do Guzika](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
 - ### [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdFtZpYbdMdLdOaqBf83PvNU) *(wersja angielska)*   
