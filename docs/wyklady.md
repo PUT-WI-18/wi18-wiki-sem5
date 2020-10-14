@@ -38,8 +38,6 @@
     - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdHtGPHUkvYG1HQXkSVfhcm1) 
 
 ## Systemy Wbudowane
-- ### [prof. dr hab. inż. Andrzej Urbaniak]() 
-    - *andrzej.urbaniak@put.poznan.pl*
 - ### [dr inż. Ewa Łukasik]() 
     - *ewa.lukasik@put.poznan.pl*
 - ### [dr inż. Przemysław Zakrzewski]()
