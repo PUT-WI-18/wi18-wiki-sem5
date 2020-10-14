@@ -41,7 +41,9 @@
 ## Sieci Komputerowe
 - ### [mgr inż. Michał Boroń](http://www.cs.put.poznan.pl/mboron/sk2.html) 
     - michal.boron@put.poznan.pl 
-    - [Link do GUzika](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz ) Kod dostępowy: 063383
+    - [Link do GUzika](https://emeeting.put.poznan.pl/eMeeting/mic-pqf-skz )
+        - Kod dostępowy: 063383
+    - [discord](https://discord.gg/NvrU3FT)
 - ### [mgr inż. Jan Kończak](http://www.cs.put.poznan.pl/jkonczak/sk2)  
     - jan.konczak@put.poznan.pl
     - [SK2-wt-13:30](https://emeeting.put.poznan.pl/eMeeting/jan-4xx-mh8) *(eMeeting)*
@@ -50,6 +52,9 @@
     - [SK2-śr-09:45](https://emeeting.put.poznan.pl/eMeeting/jan-550-oy9) *(eMeeting)*
 - ### [dr inż. Michał Kalewski](http://www.cs.put.poznan.pl/mkalewski/documents/sk.php)  
     - michal.kalewski@put.poznan.pl 
+    - [materiały](http://www.cs.put.poznan.pl/mkalewski/edu/sk/sk-2020.html)
+        - hasło: student
+        - login: student
     - [Zoom](https://us02web.zoom.us/j/88991864092?pwd=K0owakJ5U3ptYXR0dmIwVHlqakJldz09)
 
 ## Sztuczna Inteligencja
@@ -74,6 +79,7 @@
     - [konsultacje](https://emeeting.put.poznan.pl/eMeeting/ann-hua-pmw) poniedziałek 9:45 - 11:15
 - ### [dr inż. Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)  
     - pawel.boinski@cs.put.poznan.pl
+    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/paw-oya-sk3)
 - [Ekursy](https://ekursy.put.poznan.pl/course/view.php?id=4476) *(wszystkie grupy)*
 
 
