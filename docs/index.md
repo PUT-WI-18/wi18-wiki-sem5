@@ -1,5 +1,5 @@
-# Witaj na oficjalnej bla, bla, bla
-To trzeba uzupełnić 
+# Witaj na oficjalnej wiki WI18!
+
 
 ## Przydatne linki
 - [Plan zajęć](https://cat.put.poznan.pl/sites/default/files/dydaktyka/d_INF_1st_5sem.pdf)
