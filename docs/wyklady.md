@@ -28,6 +28,7 @@
     - *artur.michalski@put.poznan.pl*
 - ### [dr hab. inż. Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
     - *agnieszka.lawrynowicz@put.poznan.pl*
+- [Link do wykładu](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=124642)    
 - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdELU_AHQxCLmQBlcSEl1QKK)
 
 ## Zarządzanie Bazami SQL i NoSQL
