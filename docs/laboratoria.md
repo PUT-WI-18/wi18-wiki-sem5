@@ -32,9 +32,10 @@
     - Miroslaw.Ochodek@cs.put.poznan.pl
 - ### [Jakub Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
     - jakub.rojek@cs.put.poznan.pl
+    -[Zoom](https://zoom.us/j/98127895855?pwd=WUFacVFldWpOd0Rwam9Qa1pMQjdaUT09)
 - ### [dr inż. Wojciech Complak]() 
     - wojciech.complak@put.poznan.pl
-    - [zoom](https://us02web.zoom.us/j/88179740153?pwd=a2VYbFN1NWhLNk9kT1BDVnVTUVhsUT09)
+    - [Zoom](https://us02web.zoom.us/j/88179740153?pwd=a2VYbFN1NWhLNk9kT1BDVnVTUVhsUT09)
 - [Ekursy]( https://ekursy.put.poznan.pl/course/view.php?id=3561 ) *(wszystkie grupy)*
 - [Slack]( https://app.slack.com/client/T01C6UG431P/C01BUG27F6F )  *(wszystkie grupy)*
 
@@ -70,6 +71,7 @@
 ## Zarządzanie Bazami SQL i NoSQL
 - ### [dr inż. Bartosz Bębel](http://www.cs.put.poznan.pl/bbebel)  
     - bartosz.bebel@cs.put.poznan.pl
+    -[eMeeting](https://ekursy.put.poznan.pl/mod/url/view.php?id=476032)
     - [konsultacje](http://cat.put.poznan.pl/show-profile/112)
 - ### [dr inż. Anna Leśniewska](http://www.cs.put.poznan.pl/alesniewska)  
     - anna.lesniewska@cs.put.poznan.pl
