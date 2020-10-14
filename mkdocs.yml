@@ -10,3 +10,6 @@ theme: readthedocs
 markdown_extensions:
   - admonition
 google_analytics: ['UA-179605180-1', 'wi.ptl.cloud']
+repo_url: https://github.com/example/repository/
+site_description: Wiki Wydziału Informatyki roku 2018
+site_author: Created by common effort of CAT@PUT students
