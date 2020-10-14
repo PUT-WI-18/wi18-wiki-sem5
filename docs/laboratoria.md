@@ -30,6 +30,7 @@
 ## Inżynieria Oprogramowania
 - ### [dr inż. Mirosław Ochodek]() 
     - Miroslaw.Ochodek@cs.put.poznan.pl
+    - [Zoom](https://us02web.zoom.us/j/3615884867?_x_zm_rtaid=SRxK-KiyS8GxYdS1B406Jg.1602667150748.85895160a83c28dae838c431e4420b7b&_x_zm_rhtaid=468)
 - ### [Jakub Rojek](http://www.cs.put.poznan.pl/jrojek/io1.html) 
     - jakub.rojek@cs.put.poznan.pl
     - [Zoom](https://zoom.us/j/98127895855?pwd=WUFacVFldWpOd0Rwam9Qa1pMQjdaUT09)
