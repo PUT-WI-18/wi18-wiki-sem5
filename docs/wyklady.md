@@ -40,6 +40,7 @@
 ## Systemy Wbudowane
 - ### [dr inż. Ewa Łukasik]() 
     - *ewa.lukasik@put.poznan.pl*
+    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/ewa-ywf-w0r)
 - ### [dr inż. Przemysław Zakrzewski]()
     - *przemyslaw.zakrzewski@cs.put.poznan.pl*
     - [Link do Guzika](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
