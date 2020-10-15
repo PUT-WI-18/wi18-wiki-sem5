@@ -45,3 +45,4 @@
     - *przemyslaw.zakrzewski@cs.put.poznan.pl*
     - [Link do Guzika](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
 - ### [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdFtZpYbdMdLdOaqBf83PvNU) *(wersja angielska)*   
+- ### [Link do YT](https://www.youtube.com/watch?v=9d_M_K3mTUI&list=PLMkIxFYizNdE4_m5Ui_WK00d-sjO7b2nR&fbclid=IwAR2qgyWeWbt249wgIO2MSNlcB687zH9GuzcjSKRJu7BPYlY_FOa4VpeHznU) *(wersja polska)*
