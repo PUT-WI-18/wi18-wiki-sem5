@@ -68,6 +68,7 @@
     - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=120738)
 - ### [dr hab. inż. Agnieszka Ławrynowicz](http://www.cs.put.poznan.pl/si/) 
     - agnieszka.lawrynowicz@put.poznan.pl
+    - [Link do Guzika](https://moodle.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=122294)
 - wspólny [moodle](https://moodle.put.poznan.pl/course/view.php?id=187)
 
 ## Zarządzanie Bazami SQL i NoSQL
