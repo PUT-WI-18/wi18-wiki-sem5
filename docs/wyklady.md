@@ -8,7 +8,7 @@
 ## Komunikacja Człowiek Komputer
 - ### [dr hab. inż. Piotr Zielniewicz]() 
     - *piotr.zielniewicz@put.poznan.pl*
-    - [Link do Zoom](https://us02web.zoom.us/j/89124695587?pwd=Qlo3bGhvS1ZkNU4yWHViZjVNU01zUT09) *(hasło: 12345)*
+    - [Link do Zoom](https://us02web.zoom.us/j/88232781645?pwd=dGg5bzY0RDZmaFBZQ2JTZ0I4ZU83UT09) *(hasło: 12345)*
 - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdHdDd2HnjsJbmGss6INHien)
    
 ## Inżynieria Oprogramowania
