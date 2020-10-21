@@ -15,6 +15,7 @@
 - ### [dr inż. Mirosław Ochodek](http://www.se.cs.put.poznan.pl/Members/mochodek) 
     - *Miroslaw.Ochodek@cs.put.poznan.pl*
     - [Link do Guzika](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=470657)
+    - [Link do Zooma](https://us02web.zoom.us/j/87271332443)
 - [Link do YT](https://www.youtube.com/playlist?list=PLMkIxFYizNdHHDSYDq3y3V4A1nnIiVt-N)
    
 ## Sieci Komputerowe
