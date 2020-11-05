@@ -89,12 +89,12 @@
 
 
 ## Systemy Wbudowane
-- ### [dr inż. Przemysław Zakrzewski](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) 
+- ### [Majster od obrażania Majstra od Alfy](http://www.cs.put.poznan.pl/pzakrzewski/sw.html) 
     - przemyslaw.zakrzewski@cs.put.poznan.pl
     - [link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/prz-uvy-8ph)
 - ### [mgr inż. Ariel Antonowicz](http://www.cs.put.poznan.pl/aantonowicz/sw.html) 
     - ariel.antonowicz@cs.put.poznan.pl
     - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/ari-dtv-jav)
-- ### [dr inż. Roman Mielcarek]() 
+- ### [Majster od Alfy]() 
     - roman.mielcarek@put.poznan.pl 
     - [Link do eMeeting](https://emeeting.put.poznan.pl/eMeeting/rom-5zj-azv)
