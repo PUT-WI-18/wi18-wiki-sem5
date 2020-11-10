@@ -57,7 +57,7 @@
     - [materiały](http://www.cs.put.poznan.pl/mkalewski/edu/sk/sk-2020.html)
         - hasło: student
         - login: student
-    - [Zoom](https://us02web.zoom.us/j/88991864092?pwd=K0owakJ5U3ptYXR0dmIwVHlqakJldz09)
+    - link do Zoom trzeba brać od niego ze [strony](http://www.cs.put.poznan.pl/mkalewski/edu/sk/sk-2020.html)
 
 ## Sztuczna Inteligencja
 - ### [dr inż. Sweterek](http://www.cs.put.poznan.pl/amichalski/si.dzienne/index.html)
