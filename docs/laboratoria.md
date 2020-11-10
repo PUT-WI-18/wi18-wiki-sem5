@@ -22,7 +22,7 @@
     - michal.tomczyk@cs.put.poznan.pl
 - ### [mgr inż. Magdalena Martyn](http://www.cs.put.poznan.pl/mmartyn/)
     - magdalena.martyn@put.poznan.pl 
-    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/mag-a07-jmh)
+    - [eMeeting](https://emeeting.put.poznan.pl/eMeeting/mag-a07-jmh) (nie używa)
     - [Zoom](https://us02web.zoom.us/j/82589206394?pwd=UnFVVTdUTTlYejdyRHMzVFJGOWw2UT09)
         - Meeting ID: 825 8920 6394
         - Passcode: 9pPw69
