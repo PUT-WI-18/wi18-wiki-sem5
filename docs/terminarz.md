@@ -1,5 +1,5 @@
 # Harmonogram zaliczeń i Kolokwiów
-
+------------------------
 ## 25 stycznia
 Kolokwium Komunikacja Człowiek Komputer
 
