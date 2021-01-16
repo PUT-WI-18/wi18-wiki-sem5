@@ -3,6 +3,8 @@
 ## 21 stycznia
 Kolokwium Wspomaganie Decyzji *(gr. Masłowskiej)*  
 
+-----------------------
+
 ## 25 stycznia
 Kolokwium Komunikacja Człowiek Komputer
 
