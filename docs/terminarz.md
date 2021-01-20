@@ -15,6 +15,11 @@ Kolokwium Sztuczna Inteligencja
 
 ------------------------
 
+## 29 stycznia
+Test Inżynieria Oprogramowania
+
+----------------------
+
 ## 2 lutego
 Egzamin Wspomaganie Decyzji
 
