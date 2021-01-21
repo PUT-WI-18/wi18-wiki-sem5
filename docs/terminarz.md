@@ -17,6 +17,7 @@ Kolokwium Sztuczna Inteligencja
 
 ## 29 stycznia
 Test Inżynieria Oprogramowania
+
 - Coś a la Kahoot
 - **Warto byłoby zebrać wszystkie pytania z Kahoota w docsie**
 - 30 pytań
