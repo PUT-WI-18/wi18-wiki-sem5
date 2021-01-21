@@ -17,6 +17,9 @@ Kolokwium Sztuczna Inteligencja
 
 ## 29 stycznia
 Test Inżynieria Oprogramowania
+- Coś a la Kahoot
+- **Warto byłoby zebrać wszystkie pytania z Kahoota w docsie**
+- 30 pytań
 
 ----------------------
 
@@ -31,7 +34,12 @@ Egzamin Sieci Komputerowe
 ------------------------
 
 ## 8 lutego 
-Egzamin Bazy Danych
+Egzamin Bazy Danych (10:00)
+5 zadań na 1h30min
+- zarządzanie współbieżnością (2 zadania, m.in. transakcje)
+- odtwarzanie stanu bd po awarii (punkty kontrolne)
+- oszacowanie czasu wykonania operacji (np. połączenia)
+- optymalizacja
 
 ------------------------
 
