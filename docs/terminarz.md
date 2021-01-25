@@ -16,7 +16,7 @@ Będą trzy zadania od dr Michalskiego:
 
 - Bramki logiczne z perceptronów
 - Sieć Hopfielda (przestrzeń stanów)
-- Wnioskowanie w systemach regułowych oraz jedno zadanie z mojego wykładu o uczeniu maszynowym:
+- Wnioskowanie w systemach regułowych 
 - Obliczanie miar precyzji, czułości i  dokładności
 
 ------------------------
