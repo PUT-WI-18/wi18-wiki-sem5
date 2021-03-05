@@ -31,6 +31,7 @@
 - [J.Potoniec](http://www.cs.put.poznan.pl/jpotoniec/?page_id=12) 
 - [Tomczyk](http://www.cs.put.poznan.pl/mtomczyk/index.php/sample-page/iai/)
 - [PDDL AGH](https://ai.ia.agh.edu.pl/pl:dydaktyka:planning:pddl)
+- [Generator projektu z droolsa](https://github.com/Vulwsztyn/drools_generator)
 
 ## Systemy Zarządzania Bazami SQL i NoSQL
 - [Paweł Boiński](http://www.cs.put.poznan.pl/pboinski)
